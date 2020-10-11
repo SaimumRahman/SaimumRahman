@@ -4,7 +4,8 @@
 - 🌱 Learning Advanced Android Development
 - 🤔 Searching for guidline in Android learing process
 - 💬 Ask me about JAVA and Firebase
-- 📫 How to reach me: fb/SaimumRahman
+- 📫 Find Me: LinkedIn -@SaimumRahman [enter link description here](https://www.linkedin.com/in/saimum-rahman-0675541aa/)
+
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Love to do my in meesy way
+- ⚡ Fun fact: Love to do my Work in meesy way
 
